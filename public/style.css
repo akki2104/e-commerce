@@ -1,0 +1,81 @@
+
+
+/* css for index/landing page */
+
+
+
+.we_header{
+    height: 100px;
+    border: 2px solid;
+    border-color: red;
+}
+
+.we_main{
+    width: 98%;
+    height: 10000px;
+    border: 2px solid;
+    border-color: black;
+}
+
+.we_corstyle{
+    margin-top: 1%;
+    height: 220px;
+}
+
+.we_corimg{
+    height: 200px;
+}
+
+.we_off1{
+    padding-top: 15px;
+    height: 450px;
+    border: 1px solid red;
+}
+
+.we_offname{
+    height: 420px;
+    border: dashed 1px red;
+}
+
+.we_offcont{
+    height: 420px;
+    border: dashed 1px red;
+}
+
+
+
+
+
+
+
+
+
+.we_footer{
+    height: 300px;
+    border: 2px solid;
+    border-color: brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* details of product file css details.html*/
+
+/* .we_prod{
+    width: 98%;
+    height: 2000px;
+    margin: 2%;
+    border: 1px solid red;
+}
+.we_prodimg{
+    height: 200px;
+    border: 1px solid red;
+} */

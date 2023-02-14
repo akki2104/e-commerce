@@ -1,0 +1,32 @@
+
+
+
+.we_header{
+    height: 100px;
+    border: 2px solid;
+    border-color: red;
+}
+
+.we_prod{
+    width: 98%;
+    height: 2000px;
+    margin: 2%;
+    border: 1px solid red;
+}
+.we_prodimg{
+    height: 200px;
+    border: 1px solid red;
+}
+
+
+
+
+
+
+
+
+.we_footer{
+    height: 300px;
+    border: 2px solid;
+    border-color: brown;
+}
